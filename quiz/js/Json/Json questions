@@ -1,0 +1,44 @@
+[
+    {
+      "question": "Which country hosted the 2018 FIFA World Cup?",
+      "choice1": "Nigeria",
+      "choice2": "South Africa",
+      "choice3": "USA",
+      "choice4": "Moroco",
+      "answer": 1
+    },
+    {
+      "question": "Who won the 2015 Formula 1 World Championship?",
+      "choice1": "Banele Skhosana",
+      "choice2": "Xolane Dludlu",
+      "choice3": "Thokozane Mahlangu",
+      "choice4": "Isaac Mtsweni",
+      "answer": 3
+    },
+    {
+      "question": "Who won the 2011 Cricket World Cup?",
+      "choice1": "Zimbabwe",
+      "choice2": "United State",
+      "choice3": "New Zealand",
+      "choice4": "Algeria",
+      "answer" :  4
+    },
+    {
+        "question": "Who won the UEFA Champions League in 2019?",
+        "choice1": "Orlando Pirates",
+        "choice2": "Amazulu",
+        "choice3": "Supersport",
+        "choice4": "Sundowns",
+        "answer": 2
+      },
+    
+      {
+        "question": "Which player holds the NHL record of 2,857 points?",
+        "choice1": "Nhlanhla Kanye",
+        "choice2": "Sbusiso Masilela",
+        "choice3": "Vusi Mthombeni",
+        "choice4": "Vuyo Chithi",
+        "answer": 4
+      }
+    
+    ]
